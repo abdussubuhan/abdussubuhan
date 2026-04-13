@@ -70,7 +70,7 @@ My most impactful and well-maintained projects are pinned on my GitHub profile. 
 
 - **Email**: [subuhaaan@gmail.com]
 - **LinkedIn**: [linkedin.com/in/abdussubuhan](https://linkedin.com/in/abdussubuhan)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
+- **Portfolio**: [https://abdussubuhan.github.io/portfolio/]
 
 
 ---
